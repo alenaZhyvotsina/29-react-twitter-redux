@@ -1,4 +1,4 @@
-import {combineReducers, createStore} from "redux";
+import {createStore} from "redux";
 //import twitterReducer from "../reducers/twitterReducer";
 import rootReducer from "../combReducer/rootReducer";
 
